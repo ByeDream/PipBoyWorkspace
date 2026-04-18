@@ -1,5 +1,5 @@
 # Pip-Boy
 .pip/
+.venv
 .env
 .env.*
-.pip/wechat_session.json
