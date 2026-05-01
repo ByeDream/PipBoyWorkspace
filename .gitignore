@@ -3,3 +3,8 @@
 .venv
 .env
 .env.*
+
+# Project workspace — each project here is independent (own git, own deps).
+# Track only the .gitkeep placeholder; everything else is ignored.
+workspace/*
+!workspace/.gitkeep
